@@ -1,0 +1,21 @@
+# Go
+furyfuzzer_go
+furyfuzzer_go.exe
+furyfuzzer
+
+# Output / scratch files
+*.txt
+*.log
+results/
+
+# Wordlists
+wordlist
+wordlist.*
+*.wordlist
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
